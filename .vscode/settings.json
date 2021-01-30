@@ -1,0 +1,8 @@
+{
+// By default, create file  username
+"fileheader.Author": "Hancock",
+// By default, common template. Do not modify it!!!!!
+"fileheader.tpl": "/*\r\n * @Author: {author} \r\n * @Date: {createTime} \r\n*/"
+// By default, update file  username.
+
+} 
